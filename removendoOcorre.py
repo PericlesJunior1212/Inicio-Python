@@ -9,4 +9,4 @@ for remove in remove_lista:
 
     print(f"A lista = {lista}")
     print(f"O item removido foi: {remove_lista}")
-    print(f"A lista com o item removido: {nova_lista}")
+    print(f"A listaa com o item removido: {nova_lista}")
